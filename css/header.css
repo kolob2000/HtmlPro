@@ -1,0 +1,21 @@
+.header {
+  width: 100%;
+  background: #222222;
+  height: 75px;
+}
+.header .nav {
+  padding: 0 calc(50% - 590px);
+  display: flex;
+  height: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+.header .nav ul {
+  margin: 0 10px;
+  display: flex;
+  align-items: baseline;
+  list-style: none;
+  column-gap: 33px;
+}
+
+/*# sourceMappingURL=header.css.map */

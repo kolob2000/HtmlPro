@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,900&display=swap');
+@import "header.css";
+@import "hero.css";
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 17px;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: 900;
+  line-height: 58px;
+  color: #222222;
+}
+
+h2 {
+  font-size: 30px;
+  line-height: 36;
+  color: #222222;
+}
+
+h3 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 20px;
+  line-height: 24px;
+  color: #fbfbfb;
+}
+
+h5 {
+  font-size: 13px;
+  line-height: 16px;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  max-width: 1140px;
+}
+.pink{
+  color: #F16D7F !important;
+}
+
+
+
+
